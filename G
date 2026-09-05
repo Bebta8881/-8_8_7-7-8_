@@ -9,7 +9,7 @@ vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@fi-83975313.meow.ac:443?encryption=
 vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@e080c86cf8.meow.ac:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-f65f474f6b.meow.ac&fp=edge&pbk=IZR_BTw2cZF3
 vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@trde.meow.ac:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=quanta-research.org&fp=edge&pbk=qXnWnR9qjFvfC1njTwBy166KM
 vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@fr-f15fef547d.meow.ac:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr-f15fef547d.meow.ac&fp=edge&pbk=IZR_BTw
-vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@us-1fe5e63103.meow.ac:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-1fe5e63103.meow.ac&fp=edge&pbk=IZR_BTw2cZF3k1BdxgpcytBOEPr8PI_j0-Kakhy2THU&sid=2940bb18162e0f5f&type=tcp#🇺🇸 США ⚡️
+vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@иus-1fe5e63103.meow.ac:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-1fe5e63103.meow.ac&fp=edge&pbk=IZR_BTw2cZF3k1BdxgpcytBOEPr8PI_j0-Kakhy2THU&sid=2940bb18162e0f5f&type=tcp#🇺🇸 США ⚡️
 vless://7e2f0f14-09d2-4217-b1fa-9e933640cd45@ru-srv-yt.meow.ac:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-srv-yt.meow.
 hy2://7e2f0f14-09d2-4217-b1fa-9e933640cd45@fi-9e881f98.meow.ac:443?insecure=0&alpn=h3&sni=fi-9e881f98.meow.ac#🇫🇮 Финляндия [🎮 Игровой]
 hy2://7e2f0f14-09d2-4217-b1fa-9e933640cd45@fr-f15fef547d.meow.ac:443?insecure=0&alpn=h3&sni=fr-f15fef547d.meow.ac#🇫🇷 Франция [🎮 Игровой]
